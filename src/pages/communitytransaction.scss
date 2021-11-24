@@ -1,0 +1,39 @@
+tbody > tr > td {
+    color: black !important;
+}
+
+.transaction {
+    background-color: rgb(53, 139, 135);
+    width: auto;
+    height: 700px;
+    .h1 {
+        color: orange;
+        background-color: teal;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin-top: auto;
+        margin-bottom: 2%;
+        font-size: 45px;
+        font-weight: 700;
+        font-family: "Arial Narrow";
+        text-shadow: white;
+        padding: 5px;
+    }
+    .tbl-comunity {
+        width: 1000px;
+        justify-content: center;
+        align-items: center;
+        margin-left: 200px;
+        padding: 20px;
+    }
+    thead {
+        color: black;
+        font-family: "Arial Narrow";
+        font-size: 20px;
+        font-weight: 600;
+    }
+    tbody {
+        color: gray;
+    }
+}

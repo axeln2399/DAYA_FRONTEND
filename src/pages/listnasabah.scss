@@ -1,0 +1,55 @@
+tbody > tr > td {
+    color: blanchedalmond !important;
+}
+
+.login-pref {
+    background-color: rgb(249, 134, 7);
+    width: auto;
+    height: auto;
+    .h1 {
+        color: whitesmoke;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin-top: 10px;
+        background-color: orange;
+        font-size: 35px;
+        padding: 5px;
+    }
+    #tableListNasabah {
+        width: 1000px;
+        justify-content: center;
+        align-items: center;
+        margin-left: 170px;
+    }
+
+    thead {
+        // color: black;
+    }
+    tbody {
+        color: blanchedalmond;
+    }
+
+    .btn-primary {
+        margin-top: 5px;
+        margin-bottom: 5px;
+        width: 100px;
+        background-color: rgb(53, 139, 135);
+    }
+
+    #buttonBackComm {
+        margin-left: 15%;
+        width: 160px !important;
+        height: 50px;
+        align-self: left;
+        font-size: 17px !important;
+        border-radius: 20px !important;
+    }
+
+    .buttonback {
+        width: 100px;
+        background-color: burlywood;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+}

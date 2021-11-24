@@ -1,0 +1,168 @@
+.jumbotron {
+    margin: auto;
+    margin-top: 6rem !important;
+    margin-bottom: 4rem !important;
+    text-align: center;
+    background-color: #e8e6df;
+    width: 600px;
+    border-radius: 15px;
+    padding: 5rem;
+}
+
+#profileCO {
+    background-color: #358b88;
+    padding: 5rem;
+}
+
+#cardCommunity {
+    width: 600px;
+}
+
+#idCardComm {
+    /* margin-top: 4rem;
+  margin-bottom: 4rem; */
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+}
+
+.grid {
+    --bs-columns: 12;
+}
+
+/* #footer {
+  background-color: #f98607;
+  padding-bottom: 10px;
+  padding-top: 10px;
+} */
+
+#buttBootstrap {
+    /* color: white !important; */
+    border-radius: 15px;
+}
+
+.buttonCC {
+    text-align: center;
+    color: #f98607;
+}
+
+.buttonComm1 {
+    margin-top: 5rem;
+    text-align: center;
+}
+
+.buttonComm2 {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.card-header {
+    background-color: #f98607;
+    color: white;
+}
+
+.card-body {
+    background-color: #e8e6df;
+    color: black;
+}
+
+#detailCommunity {
+    padding-left: 8rem;
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+    background-color: #358b88;
+    color: white;
+}
+
+#detailNasabah {
+    padding-left: 8rem;
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+    background-color: #f98607;
+    color: white;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+.loan-form {
+    padding: 150px 0;
+}
+
+.loan-form form {
+    max-width: 600px;
+    margin: auto;
+    padding: 50px 70px;
+}
+
+.text {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #ff8c00;
+}
+
+.nav {
+    color: #f98607;
+}
+
+.loan-form form {
+    max-width: 700px;
+    margin: auto;
+    padding: 50px 70px;
+}
+
+.loan-text {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #ff8c00;
+    font-size: xx-large;
+}
+
+#button-cancel {
+    background-color: #ff8c00;
+    color: #fff;
+    width: 30%;
+    border-radius: 50px;
+    margin: 5px;
+}
+
+#button-loansubmit {
+    background-color: #ff8c00;
+    color: #fff;
+    width: 66%;
+    border-radius: 50px;
+    margin: 5px;
+}
+
+.nasabah-text {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #ff8c00;
+    font-size: xx-large;
+}
+
+#button-nasabah {
+    background-color: #ff8c00;
+    color: #fff;
+    width: 66%;
+    border-radius: 50px;
+    margin: 5px;
+}
+
+.meetup-form form {
+    max-width: 1000px;
+    margin: auto;
+    padding: 50px 70px;
+}
+
+.meetup-text {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #fff;
+    background-color: #ff8c00;
+    font-size: xx-large;
+    border-radius: 5px;
+}
+
+#button-meetupsubmit {
+    background-color: #ff8c00;
+    color: #fff;
+    width: 66%;
+    border-radius: 50px;
+    margin: 5px;
+}
